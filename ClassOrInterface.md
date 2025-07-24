@@ -17,6 +17,11 @@ ChildClass is a class that inherits from ParentClass.
 
 MyClass is a class that implements IMyInterface.
 
+You are creating a ChildClass object, but using the parent type to refer to it.
+This is called Upcasting, and it's legal and powerful.
+
+
+
 
 
 
