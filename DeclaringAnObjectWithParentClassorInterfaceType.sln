@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DeclaringAnObjectWithParentClassorInterfaceType", "DeclaringAnObjectWithParentClassorInterfaceType.csproj", "{73E68025-CBC2-4944-9EA9-F4D8270B20A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73E68025-CBC2-4944-9EA9-F4D8270B20A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73E68025-CBC2-4944-9EA9-F4D8270B20A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73E68025-CBC2-4944-9EA9-F4D8270B20A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73E68025-CBC2-4944-9EA9-F4D8270B20A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4181B2D1-AB2C-4BC0-A805-A51387F0F77A}
+	EndGlobalSection
+EndGlobal
