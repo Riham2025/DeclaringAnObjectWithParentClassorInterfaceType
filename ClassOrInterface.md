@@ -11,6 +11,12 @@ Step 1: Basic Example:
 ParentClass obj = new ChildClass(); 
 IMyInterface obj = new MyClass();
 
+📌 Explanation:
+
+ChildClass is a class that inherits from ParentClass.
+
+MyClass is a class that implements IMyInterface.
+
 
 
 
