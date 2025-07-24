@@ -8,5 +8,9 @@ This is useful for polymorphism, where you can treat different objects in a unif
 
 Step 1: Basic Example:
 
+ParentClass obj = new ChildClass(); 
+IMyInterface obj = new MyClass();
+
+
 
 
