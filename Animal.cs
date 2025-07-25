@@ -14,7 +14,8 @@ namespace DeclaringAnObjectWithParentClassorInterfaceType
             Animal a2 = new Cat(); 
 
             Console.WriteLine("Animal makes a sound");
- 
+
+            a1.Speak(); // Dog barks
 
         }
     }
