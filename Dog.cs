@@ -6,12 +6,7 @@ using System.Threading.Tasks;
 
 namespace DeclaringAnObjectWithParentClassorInterfaceType
 {
-    class Animal 
+    class Dog : Animal
     {
-        public virtual void Speak() 
-        {
-            Console.WriteLine("Animal makes a sound"); 
-
-        }
     }
 }
