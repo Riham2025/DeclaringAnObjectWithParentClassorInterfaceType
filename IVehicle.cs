@@ -9,6 +9,7 @@ namespace DeclaringAnObjectWithParentClassorInterfaceType
     interface IVehicle
     {
         void Start();
+
     }
 
 }

@@ -4,7 +4,12 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            // Create a list of vehicles using the interface type
+            List<IVehicle> vehicles = new List<IVehicle>
+        {
+            new Car(),
+            new Motorcycle()
+        };
         }
     }
 }
