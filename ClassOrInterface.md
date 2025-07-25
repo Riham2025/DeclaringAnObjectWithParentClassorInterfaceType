@@ -29,6 +29,10 @@ You can treat different child classes as the same type.
 2. Abstraction
 You hide complex details and only show what’s needed.
 
+ 3. Flexibility
+You can change the class later without changing the code that uses it.
+
+
 
 
 
