@@ -10,7 +10,8 @@ namespace DeclaringAnObjectWithParentClassorInterfaceType
     {
         public virtual void Speak() 
         {
-            Animal a1 = new Dog(); 
+            Animal a1 = new Dog();
+            Animal a2 = new Cat(); 
 
             Console.WriteLine("Animal makes a sound");
  
