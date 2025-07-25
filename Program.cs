@@ -9,7 +9,14 @@
         {
             new Car(),
             new Motorcycle()
+
         };
+
+            // Polymorphism in action: each vehicle calls its own Start() method
+            foreach (var v in vehicles)
+            {
+                v.Start();
+            }
         }
     }
 }
