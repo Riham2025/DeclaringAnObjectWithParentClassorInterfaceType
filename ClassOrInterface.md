@@ -26,6 +26,9 @@ This is called Upcasting, and it's legal and powerful.
 1. Polymorphism
 You can treat different child classes as the same type.
 
+2. Abstraction
+You hide complex details and only show what’s needed.
+
 
 
 
