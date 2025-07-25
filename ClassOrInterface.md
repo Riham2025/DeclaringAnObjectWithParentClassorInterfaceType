@@ -21,6 +21,8 @@ You are creating a ChildClass object, but using the parent type to refer to it.
 This is called Upcasting, and it's legal and powerful.
 
 
+- Step 2: Why Use Parent Type?
+
 
 
 
