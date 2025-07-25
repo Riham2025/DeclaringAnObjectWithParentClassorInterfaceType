@@ -17,6 +17,8 @@ namespace DeclaringAnObjectWithParentClassorInterfaceType
 
             a1.Speak(); // Dog barks
 
+            a2.Speak(); // Cat meows
+
         }
     }
 }
