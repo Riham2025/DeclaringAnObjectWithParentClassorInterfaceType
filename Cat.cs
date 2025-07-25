@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace DeclaringAnObjectWithParentClassorInterfaceType
 {
-    class Dog : Animal 
+    internal class Cat
     {
-        public override void Speak() 
-        {
-            Console.WriteLine("Dog barks");  
-        }
     }
 }
