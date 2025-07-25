@@ -1,4 +1,4 @@
-﻿namespace DeclaringAnObjectWithParentClassorInterfaceType
+﻿ namespace DeclaringAnObjectWithParentClassorInterfaceType
 {
     internal class Program
     {
