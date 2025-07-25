@@ -23,6 +23,9 @@ This is called Upcasting, and it's legal and powerful.
 
 - Step 2: Why Use Parent Type?
 
+1. Polymorphism
+You can treat different child classes as the same type.
+
 
 
 
