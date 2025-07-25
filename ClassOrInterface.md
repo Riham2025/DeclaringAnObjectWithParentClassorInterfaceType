@@ -33,6 +33,14 @@ You hide complex details and only show what’s needed.
 You can change the class later without changing the code that uses it.
 
 
+| ✅ Concept                               | 💡 Benefit           |
+| --------------------------------------- | -------------------- |
+| Declaring object as Parent or Interface | Enables polymorphism |
+| Works with collections of mixed types   | Simplifies code      |
+| Swappable implementations               | Adds flexibility     |
+| Code to interfaces not implementations  | Best practice in OOP |
+
+
 
 
 
